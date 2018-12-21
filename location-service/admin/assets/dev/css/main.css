@@ -1,0 +1,10 @@
+input#google_map_api,input#gravity_field_map  {
+    width: 450px;
+    height: 40px;
+}
+
+
+input#default_radius, #gravity_form_id {
+    width: 50px;
+    height: 40px;
+}
